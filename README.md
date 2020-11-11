@@ -1,0 +1,2 @@
+# java_19days_class_structure_inheritance
+inheritance 상속
