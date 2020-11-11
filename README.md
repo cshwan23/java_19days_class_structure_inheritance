@@ -117,7 +117,7 @@ class CheckCard extends Account {
 //******************************************
 // CheckCard 클래스를 객체화 하고 메소드를 호출하기 CheckCardExe 클래스 선언  
 //******************************************
-public class ChekCardExe {
+public class CheckCardExe {
 	
 	public static void main(String[] args) {
 		
